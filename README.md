@@ -1,3 +1,2 @@
-"# D-jango-Craiglist" 
-"# D-jango-Craiglist" 
-"# D-jango-Craiglist" 
+This is a web scrapping project using django
+hope u like it...
